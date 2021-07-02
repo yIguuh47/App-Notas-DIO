@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoNotasDIO</string>
+    <string name="media">Média:</string>
+    <string name="calcular">Calcular</string>
+    <string name="m_dia_minima_7">Média Minima: 7</string>
+    <string name="numero_max_de_faltas_12">Numero Max. de Faltas: 12</string>
+    <string name="segunda_nota">Segunda Nota</string>
+</resources>
